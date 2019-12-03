@@ -8,6 +8,9 @@
 #### [IDEA-2019.2.4给类或方法设置注释模板][8]
 #### [IDEA-2019.2.4创建普通的Web项目][9]
 #### [IDEA-2019.2.4创建普通Maven项目][10]
+#### [IDEA-2019.2.4REST Client简单使用][11]
+#### [IDEA-2019.2.4Linux远程管理工具简单使用][12]
+#### [IDEA-2019.2.4Linux远程上传文件简单使用][13]
 
 [1]: https://github.com/firechiang/idea-test/tree/master/docs/install.md
 [2]: https://github.com/firechiang/idea-test/tree/master/docs/install.md
@@ -19,3 +22,6 @@
 [8]: https://github.com/firechiang/idea-test/tree/master/docs/classtemplste.md
 [9]: https://github.com/firechiang/idea-test/tree/master/docs/webproject.md
 [10]: https://github.com/firechiang/idea-test/tree/master/docs/mavenproject.md
+[11]: https://github.com/firechiang/idea-test/tree/master/docs/http-client.md
+[12]: https://github.com/firechiang/idea-test/tree/master/docs/ssh-client.md
+[13]: https://github.com/firechiang/idea-test/tree/master/docs/ftp-client.md
